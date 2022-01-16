@@ -154,3 +154,5 @@ while True:
         print("Menu yang anda maksud tidak tersedia, Silahkan pilih menu yang tersedia")
 ```
 
+### Berikut ini adalah contoh Program ketika Dijalankan
+![Gambar2](ss/1.png)
